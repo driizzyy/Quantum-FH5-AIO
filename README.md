@@ -1,6 +1,6 @@
-# Forza Mods AIO
+# Quantum Forza Mods AIO
 
-Forza Mods AIO is a free FH4 and FH5 mod tool that aims to bring cool, new and unique features, all at NO cost!
+Quantum Forza Mods AIO is a free FH4 and FH5 mod tool that aims to bring cool, new and unique features, all at NO cost!
 
 ## What does this project do?
 
@@ -24,7 +24,7 @@ You either download the latest release or build the project yourself.
 
 ### Downloading the latest release:
 
-- Head over to the [releases tab](https://github.com/ForzaMods/Forza-Mods-AIO/releases),
+- Head over to the [releases tab](https://github.com/driizzyy/Quantum-FH5-AIO/releases),
 - Find the release which has the "latest" tag and open it,
 - Scroll down to the assets part, and download the executable.
 
@@ -39,15 +39,9 @@ You either download the latest release or build the project yourself.
 
 For support, please visit our Discord server or open an issue on GitHub.
 
-Discord: [Discord Server Link](https://discord.gg/forzamods)<br/>
-GitHub Issues: [Github Issues Link](https://github.com/ForzaMods/Forza-Mods-AIO/issues/new/choose)<br/>
-Troubleshooting Site: [Troubleshooting Site Link](https://forzamods.dev/troubleshooting)
+GitHub Issues: [Github Issues Link](https://github.com/driizzyy/Quantum-FH5-AIO/issues/new/choose)<br/>
 
 ## Requirements
 
 - [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.4-windows-x64-installer)
 - Latest version of the game you wish to use the AIO on.
-
-## License
-
-This app is under the GPL-3.0 license. You can find a copy of it [here](LICENSE).
